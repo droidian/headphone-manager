@@ -1,4 +1,8 @@
-# Session headphone manager for Droidian
+# Session headphone manager for Linux
+
+This user service handle headphones:
+- Mute/unmute headphone on plug/unplug
+- Launch favorite music application on plug
 
 ## Depends on
 
